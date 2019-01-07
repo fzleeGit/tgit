@@ -45,7 +45,6 @@
 // trip bug fixed3
 // trip bug fixed4
 // trip bug fixed5
-// trip bug fixed6
 /* USER CODE END 0 */
 
 /*----------------------------------------------------------------------------*/
