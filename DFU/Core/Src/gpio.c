@@ -43,6 +43,8 @@
 //not trip bug fixed
 // trip bug fixed
 // trip bug fixed3
+// trip bug fixed4
+// trip bug fixed5
 /* USER CODE END 0 */
 
 /*----------------------------------------------------------------------------*/
