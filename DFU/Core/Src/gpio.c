@@ -44,10 +44,7 @@
 // trip bug fixed
 // trip bug fixed3
 // trip bug fixed4
-<<<<<<< HEAD
 // trip bug fixed5
-=======
->>>>>>> parent of 5ff4181... Revert "test 3"
 /* USER CODE END 0 */
 
 /*----------------------------------------------------------------------------*/
