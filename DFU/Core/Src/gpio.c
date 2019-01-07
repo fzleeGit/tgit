@@ -42,8 +42,11 @@
 /* USER CODE BEGIN 0 */
 //not trip bug fixed
 // trip bug fixed
+<<<<<<< HEAD
 // trip bug fixed3
 // trip bug fixed4
+=======
+>>>>>>> parent of 4c8c23e... test 2nd
 /* USER CODE END 0 */
 
 /*----------------------------------------------------------------------------*/
